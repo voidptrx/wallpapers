@@ -74,6 +74,6 @@
   <tr>
     <td><a href="https://raw.githubusercontent.com/lvntcnylmz/wallpapers/master/tokyo-sunset.png"><img src="https://raw.githubusercontent.com/lvntcnylmz/wallpapers/master/tokyo-sunset.png" width="250" height="150" style="object-fit:cover"></a></td>
     <td><a href="https://raw.githubusercontent.com/lvntcnylmz/wallpapers/master/tokyo.png"><img src="https://raw.githubusercontent.com/lvntcnylmz/wallpapers/master/tokyo.png" width="250" height="150" style="object-fit:cover"></a></td>
-    <td></td>
+    <td><a href="https://raw.githubusercontent.com/lvntcnylmz/wallpapers/master/die-töten-insel.jpg"><img src="https://raw.githubusercontent.com/lvntcnylmz/wallpapers/master/die-töten-insel.jpg" width="250" height="150" style="object-fit:cover"></a></td>
   </tr>
 </table>
